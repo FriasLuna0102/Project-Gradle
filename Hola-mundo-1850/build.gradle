@@ -1,5 +1,6 @@
 plugins {
     id 'java'
+    //Agregar esto para que se pueda correr desde la terminal sin necesidad de Intellij.
     id 'application'
 }
 
